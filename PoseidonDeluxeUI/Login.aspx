@@ -28,7 +28,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <ul>
                 <li><a href="index.aspx">Home</a> <i>/</i></li>
 
-                <li>Login</li>
+                <li>Login Merhaba</li>
             </ul>
         </div>
     </div>
