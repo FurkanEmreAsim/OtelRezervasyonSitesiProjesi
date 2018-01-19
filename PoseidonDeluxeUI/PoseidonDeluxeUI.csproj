@@ -166,6 +166,7 @@
     <Content Include="js\move-top.js" />
     <Content Include="js\simplePlayer.js" />
     <Content Include="Login.aspx" />
+    <Content Include="Merhabalar.html" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="images\Thumbs.db" />
     <Content Include="fonts\fontawesome-webfont.eot" />
